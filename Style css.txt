@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sosial Media</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url(download.jpeg);
+            margin: 0;
+            padding: 0;
+            display: 
+            ;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .social-buttons {
+            text-align: center;
+        }
+
+        .social-buttons a {
+            display: block;
+            margin: 25px 0;
+            text-decoration: none;
+            padding: 20px 20px;
+            background-color: #31454f; /* Ganti dengan warna latar belakang yang sesuai */
+            color: #fff;
+            border-radius: 20px;
+        }
+
+        .social-buttons a:hover {
+            background-color: #3e4346; /* Ganti dengan warna latar belakang yang sesuai */
+        }
+    </style>
+</head>
+<body>
+    
+    
+    <div class="social-buttons">
+        <a href="">About me</a>
+        <a href="https://www.facebook.com">Whatshapp</a>
+        <a href="https://www.twitter.com">Twitter</a>
+        <a href="https://www.instagram.com">Instagram</a>
+        <a href="https://www.linkedin.com">LinkedIn</a>
+    </div>
+</body>
+</html>
